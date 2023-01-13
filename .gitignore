@@ -1,0 +1,6 @@
+
+#Remover a exibição no repositório das váriaveis de ambiente
+.env*
+
+#Remover a pasta do node
+node_modules
